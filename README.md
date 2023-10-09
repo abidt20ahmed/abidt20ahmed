@@ -1,9 +1,7 @@
 ﻿﻿![logo](https://github.com/abidt20ahmed/abidt20ahmed/blob/main/banner.png)
  <br>
 <h1 align="center">Hi 👋, I'm Mahin</h1>
-<br>
 <h3 align="center">Passionate Frontend Developer</h3>
-<br>
 <br>
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
