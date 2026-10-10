@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-of-mahin.web.app/" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://abid.web.app/" target="blank">My Portfolio</a>
 
 - 📫 How to reach me **abidahmedmahin@gmail.com**
 
